@@ -8,7 +8,8 @@ using namespace std;
 int N, M;
 char field[100][100];
 
-void solve() {
+int solve() {
+  return 22;
 }
 
 int main() {
@@ -27,4 +28,7 @@ int main() {
     }
     scanf("%c", &dummy);
   }
+
+  // 出力
+  printf("%d\n", solve());
 }
