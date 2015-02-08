@@ -1,5 +1,6 @@
 #include <cstdio>
-#include <algorithm>
+#include <queue>
+
 using namespace std;
 
 #define FOR(i,a,b) for(int i=(a);i<(b);i+=1)
