@@ -12,7 +12,7 @@ const int INF = 100000000;
 
 int N, M;
 char field[100][100];
-char dist[100][100];
+int dist[100][100];
 
 int sx, sy;
 int gx, gy;
